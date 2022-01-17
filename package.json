@@ -1,6 +1,6 @@
 {
   "name": "@adil-01/persistent-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Persistent state for react and next js application with client and server side rendering capabilities",
   "main": "index.js",
   "scripts": {
