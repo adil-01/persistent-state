@@ -1,0 +1,29 @@
+{
+  "name": "@adil-01/persistent-state",
+  "version": "1.0.0",
+  "description": "Persistent state for react and next js application with client and server side rendering capabilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adil-01/persistent-state.git"
+  },
+  "keywords": [
+    "persistent-state",
+    "react",
+    "next",
+    "useState"
+  ],
+  "author": "Adil",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/adil-01/persistent-state/issues"
+  },
+  "homepage": "https://github.com/adil-01/persistent-state#readme"
+}
